@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#000000</color>
+
+
+    //Color App
+    <color name="colorPrimary">#000000</color>
+    <color name="color_red">#EA1D0B</color>
+    <color name="color_orange">#ff8000</color>
+    <color name="color_green">#008000</color>
+    <color name="color_gray">#D9D9D9</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ColorLightBlack">#171C26</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="graySearch">#E4E4E4</color>
+    <color name="grayHint">#999999</color>
+    <color name="search_back">#444444</color>
+
+</resources>

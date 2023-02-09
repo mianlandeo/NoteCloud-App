@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Note Cloud</string>
+    //String App
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_name">Note</string>
+    <string name="title_view">Title</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry Ipsum has been the industry standard dummy text ever since.</string>
+    <string name="date_view">06 Feb 2023</string>
+    <string name="title">Note</string>
+    <string name="note">Note</string>
+    <string name="title_txt">Title</string>
+    <string name="date_txt"> 2023.02.6 </string>
+    <string name="description_txt">Write note here...</string>
+    <string name="search_view">Search</string>
+    <string name="property">Property:</string>
+    <string name="add_btn_float">Add</string>
+    <string name="update_btn">Update</string>
+    <string name="delete_btn">Delete</string>
+    <string name="add_fragment">Add Note</string>
+    <string name="sign_in">Sign In with Google</string>
+    <string name="welcome_home">Welcome, Username</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="edit_title">Title</string>
+    <string name="dialog_alert">Are you sure you want to delete</string>
+    <string name="update_fragment">Update Note</string>
+    <string name="select_priority">select priority</string>
+    <string name="medium">medium</string>
+    <string name="normal">Normal</string>
+    <string name="save">Save</string>
+    <string name="high">high</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
