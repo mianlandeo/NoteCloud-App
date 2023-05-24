@@ -8,7 +8,8 @@ Aplicación simple para crear, 📝 actualizar y eliminar ❌ notas
 - 100% Kotlin
 - Injection Dagger Hilt
 - Room Database
-- Clear Architecture MVVM()
+- Architecture MVVM
+- Clear code
 - Flows
 - Navigation fragment - xml
 
