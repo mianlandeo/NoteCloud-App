@@ -2,7 +2,7 @@
 ![](https://github.com/mianlandeo/NoteCloud-App/blob/main/app/src/main/res/drawable/logo_cloud.png?raw=true)
 
 ## App NoteCloud
-Aplicación simple para crear, 📝 actualizar y eliminar ❌ notas 
+Aplicación para crear, actualizar y eliminar ❌ notas de forma segura, con seleccion en nivel de prioridad  
 
 ### Feature 🤓
 - 100% Kotlin
